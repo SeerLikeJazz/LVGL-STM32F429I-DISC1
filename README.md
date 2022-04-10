@@ -1,0 +1,2 @@
+# LVGL-STM32F429I-DISC1
+在STM32F429I-DISC1开发板上演示LVGL，通过SquareLine Studio生成UI
